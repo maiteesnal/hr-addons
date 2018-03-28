@@ -4,7 +4,7 @@
 
 {
     "name": "HR Timesheet Invoice By Partner",
-    "version": "8.0.1.0.0",
+    "version": "8.0.1.0.1",
     "license": "AGPL-3",
     "author": "AvanzOSC",
     "website": "http://www.avanzosc.es",
